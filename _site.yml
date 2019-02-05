@@ -1,8 +1,8 @@
-name: "my-website"
+name: "brittanymsh"
 output_dir: "."
 
 navbar:
-  title: "My Website"
+  title: "Britt's Webpage"
   left:
     - text: "Resume"
       href: resume.html
