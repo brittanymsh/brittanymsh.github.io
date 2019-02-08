@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "Links"
+      href: links.html
 
 output:
   html_document:
-    theme: default
-    highlight: default
+    theme: sandstone
+    highlight: espresso

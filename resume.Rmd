@@ -1,5 +1,30 @@
 ---
-title: "John Doe's Resume"
+title: "Brittany Hall's Resume"
 ---
+### Education
+  * Bachelor of Science in Psychology
+    + Appalachian State University
+    + Fall 2017 - Present
+    + Minor in Statistics
 
-Resume content.
+  * Honors
+    + Dean's List Fall 2017
+    + Dean's List Spring 2018
+
+### Professional Experience
+  * Swim Teacher
+    + Communicated with customers about the progess of their children
+    + Taught children to swim
+    + Worked quickly and efficiently to complete the classes in the time slots allotted
+    + Properly filed away documents
+    +Assisted in keeping the facilities clean and safe
+  * Lifeguard
+    + Observed pool area to keep patrons safe
+    + Assisted in keeping facilities clean and safe
+    + Acted immedietly and appropriately to keep patrons safe in the event of an emergancy
+    + Provided care and assistance when patrons were in need
+
+###### EMAIL:
+hallb1@appstate.edu
+
+  
